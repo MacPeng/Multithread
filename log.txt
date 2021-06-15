@@ -1,0 +1,142 @@
+init thread: 0 
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7e00010
+read_request_return thread: 0 client: 0x7f85f7e00010
+invoke_service_method thread: 0 GET /hello_world.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7e00010
+close_connection thread: 0  client: 0x7f85f7e00010
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7f00250
+read_request_return thread: 0 client: 0x7f85f7f00250
+invoke_service_method thread: 0 GET /bootstrap.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7f00250
+close_connection thread: 0  client: 0x7f85f7f00250
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7c02790
+read_request_return thread: 0 client: 0x7f85f7c02790
+invoke_service_method thread: 0 GET /hello_world.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7c02790
+close_connection thread: 0  client: 0x7f85f7c02790
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7f00000
+read_request_return thread: 0 client: 0x7f85f7f00000
+invoke_service_method thread: 0 GET /bootstrap.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7f00000
+close_connection thread: 0  client: 0x7f85f7f00000
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7f00000
+read_request_return thread: 0 client: 0x7f85f7f00000
+invoke_service_method thread: 0 GET /hello_world.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7f00000
+close_connection thread: 0  client: 0x7f85f7f00000
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7e00010
+read_request_return thread: 0 client: 0x7f85f7e00010
+invoke_service_method thread: 0 GET /bootstrap.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7e00010
+close_connection thread: 0  client: 0x7f85f7e00010
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7e00010
+read_request_return thread: 0 client: 0x7f85f7e00010
+invoke_service_method thread: 0 GET /hello_world.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7e00010
+close_connection thread: 0  client: 0x7f85f7e00010
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7e00010
+read_request_return thread: 0 client: 0x7f85f7e00010
+invoke_service_method thread: 0 GET /bootstrap.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7e00010
+close_connection thread: 0  client: 0x7f85f7e00010
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7f00000
+read_request_return thread: 0 client: 0x7f85f7f00000
+invoke_service_method thread: 0 GET /hello_world.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7f00000
+close_connection thread: 0  client: 0x7f85f7f00000
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7d00010
+read_request_return thread: 0 client: 0x7f85f7d00010
+invoke_service_method thread: 0 GET /bootstrap.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7d00010
+close_connection thread: 0  client: 0x7f85f7d00010
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7d00010
+read_request_return thread: 0 client: 0x7f85f7d00010
+invoke_service_method thread: 0 GET /hello_world.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7d00010
+close_connection thread: 0  client: 0x7f85f7d00010
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7e00010
+read_request_return thread: 0 client: 0x7f85f7e00010
+invoke_service_method thread: 0 GET /bootstrap.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7e00010
+close_connection thread: 0  client: 0x7f85f7e00010
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7d00010
+read_request_return thread: 0 client: 0x7f85f7d00010
+invoke_service_method thread: 0 GET /hello_world.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7d00010
+close_connection thread: 0  client: 0x7f85f7d00010
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7d00010
+read_request_return thread: 0 client: 0x7f85f7d00010
+invoke_service_method thread: 0 GET /bootstrap.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7d00010
+close_connection thread: 0  client: 0x7f85f7d00010
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7d00010
+read_request_return thread: 0 client: 0x7f85f7d00010
+invoke_service_method thread: 0 GET /hello_world.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7d00010
+close_connection thread: 0  client: 0x7f85f7d00010
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7d00010
+read_request_return thread: 0 client: 0x7f85f7d00010
+invoke_service_method thread: 0 GET /bootstrap.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7d00010
+close_connection thread: 0  client: 0x7f85f7d00010
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7c02790
+read_request_return thread: 0 client: 0x7f85f7c02790
+invoke_service_method thread: 0 GET /hello_world.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7c02790
+close_connection thread: 0  client: 0x7f85f7c02790
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7c02790
+read_request_return thread: 0 client: 0x7f85f7c02790
+invoke_service_method thread: 0 GET /bootstrap.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7c02790
+close_connection thread: 0  client: 0x7f85f7c02790
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7e00010
+read_request_return thread: 0 client: 0x7f85f7e00010
+invoke_service_method thread: 0 GET /hello_world.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7e00010
+close_connection thread: 0  client: 0x7f85f7e00010
+waiting_to_accept thread: 0 
+client_accepted thread: 0 
+read_request_enter thread: 0 client: 0x7f85f7e00010
+read_request_return thread: 0 client: 0x7f85f7e00010
+invoke_service_method thread: 0 GET /bootstrap.html
+write_response thread: 0  RESPONSE 200 client: 0x7f85f7e00010
+close_connection thread: 0  client: 0x7f85f7e00010
+waiting_to_accept thread: 0 
