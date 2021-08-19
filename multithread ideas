@@ -5,3 +5,15 @@ multithread
 
 线程间切换更加快速 而进程切换更为复杂所以采用multithreading 就是处理多个任务的能力
 单线程就是cpu只能只从一个任务 剩下的要排队
+
+Advantages of multithreading
+Better use of system resources
+Enhanced performance on multi-processor / multi-core machines
+Simultaneous and parallelized occurrence of tasks
+
+
+Disadvantages of multithreading
+Complex debugging and testing processes
+Overhead switching of context
+Unpredictable results
+Increased potential for deadlock 
