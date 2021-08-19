@@ -17,3 +17,15 @@ Complex debugging and testing processes
 Overhead switching of context
 Unpredictable results
 Increased potential for deadlock 
+
+
+线程安全
+指的是内存的安全防止被其他子线程访问到所有信息 每个进程只能访问分配给自己的内存空间
+
+
+stack memory
+存放局部变量值primitive values，reference to obj，在方法结束时系统会释放当前stack对应的变量随着线程销毁而结束 所以定义在函数内部就是线程安全的变量
+
+
+heap memory
+jvm又一个heap被所有线程共享 heap不是线程安全
