@@ -57,3 +57,6 @@ volatile不能保证原子性但保证其他两个性质；但是syncronize保�
 How to avoid thread safe problem
 1.Stateless implementation: A class without instance variables.
 2.Immutable implementation: A class instance is immutable when its internal state can’t be modified after it has been constructed. 
+3.synchronized（同步）:  Only one thread can access a synchronized method at a time while blocking access to this method from other threads.
+4.lock: A lock is a thread synchronization mechanism like synchronized blocks except locks can be more sophisticated than Java's synchronized blocks.
+
