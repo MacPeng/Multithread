@@ -53,3 +53,7 @@ Lock前缀指令实际上相当于一个内存屏障, 内存屏障会提供3个�
 就会将当前处理器的缓存行设置成无效状态, 当处理器要对这个数据进行修改操作的时候, 会强制重新从系统内存里把数据读到处理器缓存里.
 
 volatile不能保证原子性但保证其他两个性质；但是syncronize保证三个特性（原子性，有序性，可见行）
+
+How to avoid thread safe problem
+1.Stateless implementation: A class without instance variables.
+2.Immutable implementation: A class instance is immutable when its internal state can’t be modified after it has been constructed. 
